@@ -1,0 +1,10 @@
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\bin\Debug\MyForm.exe.config
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\bin\Debug\MyForm.exe
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\bin\Debug\MyForm.pdb
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.exe
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.pdb
+Z:\2312637_LeAnhKhoa_CTK47A_Lab02\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources

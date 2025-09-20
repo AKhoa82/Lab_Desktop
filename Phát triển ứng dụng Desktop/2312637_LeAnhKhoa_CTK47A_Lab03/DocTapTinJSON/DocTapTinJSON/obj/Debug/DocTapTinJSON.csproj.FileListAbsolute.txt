@@ -1,0 +1,13 @@
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\bin\Debug\DocTapTinJSON.exe.config
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\bin\Debug\DocTapTinJSON.exe
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\bin\Debug\DocTapTinJSON.pdb
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.frmReadJsonFile.resources
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.Properties.Resources.resources
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.csproj.CopyComplete
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.exe
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinJSON\DocTapTinJSON\obj\Debug\DocTapTinJSON.pdb

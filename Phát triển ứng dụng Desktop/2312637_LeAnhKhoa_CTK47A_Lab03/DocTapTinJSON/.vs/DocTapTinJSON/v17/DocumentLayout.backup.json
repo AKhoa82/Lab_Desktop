@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312637_leanhkhoa_ctk47a_lab03\\doctaptinjson\\doctaptinjson\\frmreadjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|solutionrelative:doctaptinjson\\frmreadjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\doctaptinjson\\frmreadjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|solutionrelative:doctaptinjson\\frmreadjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\doctaptinjson\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|solutionrelative:doctaptinjson\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\doctaptinjson\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|solutionrelative:doctaptinjson\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\doctaptinjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99752F8F-9474-48B9-983D-06FA09B8BE0B}|DocTapTinJSON\\DocTapTinJSON.csproj|solutionrelative:doctaptinjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\Program.cs",
+              "RelativeDocumentMoniker": "DocTapTinJSON\\Program.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\Program.cs",
+              "RelativeToolTip": "DocTapTinJSON\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReadJsonFile.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\frmReadJsonFile.cs",
+              "RelativeDocumentMoniker": "DocTapTinJSON\\frmReadJsonFile.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\frmReadJsonFile.cs",
+              "RelativeToolTip": "DocTapTinJSON\\frmReadJsonFile.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:55.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "DocTapTinJSON\\StudentInfo.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\StudentInfo.cs",
+              "RelativeToolTip": "DocTapTinJSON\\StudentInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "students.json",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\students.json",
+              "RelativeDocumentMoniker": "DocTapTinJSON\\students.json",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\students.json",
+              "RelativeToolTip": "DocTapTinJSON\\students.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T14:10:55.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReadJsonFile.cs [Design]",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\frmReadJsonFile.cs",
+              "RelativeDocumentMoniker": "DocTapTinJSON\\frmReadJsonFile.cs",
+              "ToolTip": "C:\\Users\\PC602\\Downloads\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab03\\DocTapTinJSON\\DocTapTinJSON\\frmReadJsonFile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-09-13T14:10:55.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

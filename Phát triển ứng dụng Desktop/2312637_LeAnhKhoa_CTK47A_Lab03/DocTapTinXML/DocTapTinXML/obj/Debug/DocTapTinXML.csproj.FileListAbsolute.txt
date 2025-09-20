@@ -1,0 +1,7 @@
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\bin\Debug\DocTapTinXML.exe.config
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\bin\Debug\DocTapTinXML.exe
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\bin\Debug\DocTapTinXML.pdb
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\obj\Debug\DocTapTinXML.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\obj\Debug\DocTapTinXML.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\obj\Debug\DocTapTinXML.exe
+C:\Users\PC602\Downloads\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab03\DocTapTinXML\DocTapTinXML\obj\Debug\DocTapTinXML.pdb

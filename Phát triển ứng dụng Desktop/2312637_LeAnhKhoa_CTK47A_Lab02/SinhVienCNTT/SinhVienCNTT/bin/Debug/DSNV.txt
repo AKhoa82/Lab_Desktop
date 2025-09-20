@@ -1,0 +1,6 @@
+2312647;Nguyễn Văn A;1;01/01/2003;CTK43;0912345678;vana@gmail.com;Đà Lạt;sv1.png
+2312693;Trần Thị B;0;15/03/2002;CTK44;0987654321;thib@gmail.com;Hà Nội;sv2.png
+2314288;Lê Hoàng C;1;20/06/2001;CTK45;0901234567;hoangc@gmail.com;Ninh Thuận;sv3.png
+2312609;Phạm Mai D;0;10/10/2003;CTK46;0934567890;maid@gmail.com;TP.HCM;sv4.png
+2312617;Đặng Quốc E;1;05/05/2002;CTK43;0911222333;quoce@gmail.com;Bảo Lộc;sv5.png
+2311343;Lê Anh Khoa;1;08/02/2005;CTK43;0327.531.536;2311343@dlu.edu.vn;Đà Lạt;D:\Phát triển ứng dụng Desktop\2312637_LeAnhKhoa_CTK47A_Lab02\SinhVienCNTT\SinhVienCNTT\bin\Debug\sv1.png

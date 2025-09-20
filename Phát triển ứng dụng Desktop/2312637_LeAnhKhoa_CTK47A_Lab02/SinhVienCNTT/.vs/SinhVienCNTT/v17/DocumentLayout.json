@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312637_leanhkhoa_ctk47a_lab02\\sinhviencntt\\sinhviencntt\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|solutionrelative:sinhviencntt\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\sinhviencntt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|solutionrelative:sinhviencntt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\sinhviencntt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|solutionrelative:sinhviencntt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\sinhviencntt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|solutionrelative:sinhviencntt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\sinhviencntt\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB864F7B-0F89-4470-89D0-BC4D4BE90C0B}|SinhVienCNTT\\SinhVienCNTT.csproj|solutionrelative:sinhviencntt\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\MainForm.cs",
+              "RelativeDocumentMoniker": "SinhVienCNTT\\MainForm.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\MainForm.cs",
+              "RelativeToolTip": "SinhVienCNTT\\MainForm.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAUwM8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-09-13T14:10:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVienCNTT\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\QuanLySinhVien.cs",
+              "RelativeToolTip": "SinhVienCNTT\\QuanLySinhVien.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\MainForm.cs",
+              "RelativeDocumentMoniker": "SinhVienCNTT\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PC602\\Downloads\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-09-13T14:10:01.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\Program.cs",
+              "RelativeDocumentMoniker": "SinhVienCNTT\\Program.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\Program.cs",
+              "RelativeToolTip": "SinhVienCNTT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:01.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVienCNTT\\SinhVien.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\2312637_LeAnhKhoa_CTK47A_Lab02\\SinhVienCNTT\\SinhVienCNTT\\SinhVien.cs",
+              "RelativeToolTip": "SinhVienCNTT\\SinhVien.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:10:01.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
